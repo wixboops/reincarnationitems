@@ -277,5 +277,5 @@
   "285": { "id": "285", "name": "Forgotten Memories", "isRangeUpgrader": false, "minimumValue": null, "useLimit": 1 },
   "286": { "id": "286", "name": "Value Scaler", "isRangeUpgrader": false, "minimumValue": null, "useLimit": null },
   "287": { "id": "287", "name": "Stellar Rice", "isRangeUpgrader": false, "minimumValue": null, "useLimit": null },
-  "288": { "id": "288", "name": "Eldritch Rice", "isRangeUpgrader": false, "minimumValue": null, "useLimit": null },
+  "288": { "id": "288", "name": "Eldritch Rice", "isRangeUpgrader": false, "minimumValue": null, "useLimit": null }
 }
